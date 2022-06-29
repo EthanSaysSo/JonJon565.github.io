@@ -1,2 +1,2 @@
 # JonJon565.github.io
-[Beta](../JonJon565.github.io/Beta)
+[Beta](https://jonjon565.github.io/Beta/)
