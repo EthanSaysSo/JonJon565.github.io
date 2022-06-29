@@ -1,2 +1,2 @@
 # JonJon565.github.io
-[I'm an inline-style link](https://www.google.com)
+[Beta](../JonJon565.github.io/Beta)
