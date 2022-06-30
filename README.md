@@ -1,2 +1,2 @@
 # JonJon565.github.io
-[Beta](https://jonjon565.github.io/Beta/)
+[Minecraft Beta for Computers Only](https://jonjon565.github.io/Beta/) [2048](https://jonjon565.github.io/2048/)
