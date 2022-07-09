@@ -4,3 +4,5 @@
 [2048](https://jonjon565.github.io/2048/)
 
 [Surf](https://jonjon565.github.io/Surf/)
+
+[Pacman](https://jonjon565.github.io/Pacman/)
