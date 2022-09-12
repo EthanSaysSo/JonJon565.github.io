@@ -9,7 +9,9 @@
 
 [BillyAbuse](https://jonjon565.github.io/BillyAbuse/)
 
-[Minecraft Tool IDK](https://jonjon565.github.io/Cubejs/)
+[Minecraft Tool IDK](https://jonjon565.github.io/cube.js/)
+
+[Minecraft Modeler](https://jonjon565.github.io/Cubejs/)
 
 
 
